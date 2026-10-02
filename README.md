@@ -102,7 +102,7 @@ java TempConverter
 
 ## Source Code
 
-The full program is in [TempConverter.java](Project%201/src/TempConverter.java).
+The full program is in [TempConverter.java](https://github.com/Dannichi/Mini-Project-1-Temperature-Converter/blob/main/Project%201%20-%20Temperature%20Converter/src/TempConverter.java).
 
 ## What I Learned
 - Writing methods with parameters, new algorithm, and return values
