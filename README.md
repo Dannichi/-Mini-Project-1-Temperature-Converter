@@ -63,6 +63,9 @@ Enter unit (C, F, K): f
 
 Temperature: 100.0°C = 212.0°F
 
+Convert another temperature (Y/N): x
+Invalid Input. Please enter Y or N only.
+
 Convert another temperature (Y/N): n
 Thank you for using the Temperature Converter!
 ```
