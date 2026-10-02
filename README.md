@@ -1,4 +1,4 @@
-# Temperature Converter
+# Mini Project 1: Temperature Converter
 
 A Java console program that converts temperatures between Celsius, Fahrenheit, and Kelvin.
 
