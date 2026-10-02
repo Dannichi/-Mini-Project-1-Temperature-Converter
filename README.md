@@ -1,6 +1,3 @@
-# -Mini-Project-1-Temperature-Converter
-Temperature Converter built with Java Programming Language build using its fundamentals.
-
 # Temperature Converter
 
 A Java console program that converts temperatures between Celsius, Fahrenheit, and Kelvin.
