@@ -78,17 +78,6 @@ Thank you for using the Temperature Converter!
 | 32°F →  C |     0.0°C       |
 | 212°F → K |     373.2 K     |
 
-## How to Run
-
-```
-javac TempConverter.java
-java TempConverter
-```
-
-## Source Code
-
-The full program is in [TempConverter.java](TempConverter.java).
-
 ## Code Highlight
 
 Instead of writing a formula for every pair of units, the program converts to Celsius first, then to the target unit:
@@ -103,7 +92,17 @@ static double convertTemperature(double temp, String from, String to)
 For example, converting 212°F to Kelvin:
 1. `toCelsius(212, "F")` gives 100.0
 2. `fromCelsius(100.0, "K")` gives 373.15
+   
+## How to Run
 
+```
+javac TempConverter.java
+java TempConverter
+```
+
+## Source Code
+
+The full program is in [TempConverter.java](TempConverter.java).
 
 ## What I Learned
 - Writing methods with parameters, new algorithm, and return values
